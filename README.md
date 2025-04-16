@@ -22,7 +22,7 @@
 
 ### 📌 Projets à découvrir
 
-- 🔐 [Gestion de stock (microservices + frontend)](https://github.com/kevinvoli/gestion-stock)  
+- 🔐 [Gestion de stock (microservices + frontend)](https://github.com/kevinvoli/gestion_de_stock)  
   → Auth, rôles/permissions, exports PDF, React + NestJS
 
 *------*
