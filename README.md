@@ -2,7 +2,7 @@
 
 ---
 
-🎯 Développeur full-stack basé en Afrique  
+🎯 Développeur full-stack basé en Afrique (**Côte d'Ivoire**)
 💼 Spécialisé en **NestJS**, **React/Next.js**, **Flutter**, **Microservices**, **Docker**, et **sécurité applicative**  
 🛠️ Passionné par l’architecture logicielle, la qualité de code et les solutions scalables
 
