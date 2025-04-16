@@ -45,7 +45,7 @@
 ### 🤝 Me contacter
 
 📧 gbamblekevin@gmail.com
-🔗 [LinkedIn – kevinvoli](https://www.linkedin.com/in/kevinvoli)  
+🔗 [LinkedIn – kevinvoli](https://www.linkedin.com/in/kevin-voli/)  
 🌍 (Portfolio en cours)
 
 ---
